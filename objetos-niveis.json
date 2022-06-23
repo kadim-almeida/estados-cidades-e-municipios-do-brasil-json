@@ -1,0 +1,57 @@
+{
+  "users": {
+    "user1": {
+      "dadosPessoais": {
+        "nome": "Ricardo",
+        "idade": "41"
+      },
+      "documentos": {
+        "cpf": "000.000.000-00",
+        "rg": "1.234.567",
+        "orgao": "SSP/DF"
+      },
+      "formacao": {
+        "escola": "Escola Classe 22",
+        "geodados": {
+          "endereco": "QNP 03 Conjunto A",
+          "cidade": "Brasília",
+          "cep": "72.000-000"
+        },
+        
+      },
+      "geodados": {
+        "endereco": "QNE 03",
+        "cidade": "Brasília",
+        "cep": "72.125-030"
+      },
+      
+    },
+    "user2": {
+      "dadosPessoais": {
+        "nome": "Sergio",
+        "idade": "20"
+      },
+      "documentos": {
+        "cpf": "000.000.000-00",
+        "rg": "1.234.567",
+        "orgao": "SSP/DF"
+      },
+      "formacao": {
+        "escola": "Escola Classe 22",
+        "geodados": {
+          "endereco": "QNP 03 Conjunto A",
+          "cidade": "Brasília",
+          "cep": "72.000-000"
+        },
+        
+      },
+      "geodados": {
+        "endereco": "QNE 03",
+        "cidade": "Brasília",
+        "cep": "72.125-030"
+      },
+      
+    },
+    
+  }
+}
